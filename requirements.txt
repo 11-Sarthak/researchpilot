@@ -7,4 +7,5 @@ python-dotenv
 langchain-groq
 arxiv
 wikipedia
+langchain-tavily
 
